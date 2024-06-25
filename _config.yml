@@ -87,7 +87,7 @@ content:
         caption: February 2016 - present
         link: https://kfueit.edu.pk/
         quote: >
-          Short description of the company (optional)
+          Responsibilities:
         description: | # this will include new lines to allow paragraphs
           Delivering lectures on subjects such as Object-Oriented Programming, Enterprise Systems, Data Science, and Mobile Application Programming, involves preparing comprehensive course materials including syllabi, assignments, and assessments to ensure effective learning outcomes for students. Responsibilities also include serving as a Batch Advisor, offering guidance on study plans and course enrollment, and mentoring final-year projects for computer science and information technology students. Actively participating in curriculum development through Board of Studies meetings, conducting fair evaluations of student performance via quizzes, exams, projects, and presentations, and facilitating industry-academia interactions by organizing guest lectures, workshops, and seminars with industry professionals are also key duties. Additionally, conducting research and publishing findings in reputable journals to advance knowledge in the field is a critical component of the role.
 
@@ -97,9 +97,9 @@ content:
         caption: 2013 - 2015
         link: https://www.iub.edu.pk/
         quote: >
-          Short description of the company (optional)
+          Responsibilities:
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Delivering lectures to computer science undergraduates involves preparing comprehensive course materials, including syllabi, assignments, and assessments, to ensure effective learning outcomes. This role also includes conducting fair and timely evaluations of student performance through quizzes, exams, projects, and presentations.
   - title: Education
     layout: list
     content:
