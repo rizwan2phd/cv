@@ -81,7 +81,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Full Time Lecturer, Information Technology
         sub_title: Khwaja Fareed University of Engineering and Information Technology, Pakistan
         caption: February 2016 - present
@@ -91,7 +91,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Delivering lectures on subjects such as Object-Oriented Programming, Enterprise Systems, Data Science, and Mobile Application Programming, involves preparing comprehensive course materials including syllabi, assignments, and assessments to ensure effective learning outcomes for students. Responsibilities also include serving as a Batch Advisor, offering guidance on study plans and course enrollment, and mentoring final-year projects for computer science and information technology students. Actively participating in curriculum development through Board of Studies meetings, conducting fair evaluations of student performance via quizzes, exams, projects, and presentations, and facilitating industry-academia interactions by organizing guest lectures, workshops, and seminars with industry professionals are also key duties. Additionally, conducting research and publishing findings in reputable journals to advance knowledge in the field is a critical component of the role.
 
-      - layout: right
+      - layout: left
         title: Visiting Lecturer, Computer Science
         sub_title: The Islamia University of Bahawalpur, Pakistan
         caption: 2013 - 2015
