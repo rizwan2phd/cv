@@ -119,9 +119,9 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - <mark>Rizwan</mark>, Muhammad, and Jure Demšar. "Prevalent Frequency of Emotional and Physical Symptoms in Social Anxiety using Zero Shot Classification: An Observational Study." Proceedings of the 9th Workshop on Computational Linguistics and Clinical Psychology (CLPsych 2024). 2024.
-      - Rizwan, Muhammad, et al. "Depression Intensity Classification from Tweets Using FastText Based Weighted Soft Voting Ensemble." Computers, Materials & Continua 78.2 (2024): 2047-2066.
-
+      - <mark>First Author</mark> Rizwan, Muhammad, and Jure Demšar. "Prevalent Frequency of Emotional and Physical Symptoms in Social Anxiety using Zero Shot Classification: An Observational Study." Proceedings of the 9th Workshop on Computational Linguistics and Clinical Psychology (CLPsych 2024). 2024.
+      - <mark>First Author</mark> Rizwan, Muhammad, et al. "Depression Intensity Classification from Tweets Using FastText Based Weighted Soft Voting Ensemble." Computers, Materials & Continua 78.2 (2024): 2047-2066.
+      - <mark>Corresponding Author Author</mark> Khosa, Saima, Arif Mehmood, and Muhammad Rizwan. "Unifying Sentence Transformer Embedding and Softmax Voting Ensemble for Accurate News Category Prediction." Computers 12.7 (2023): 137.
 
 # Footer
 footer_show_references: true
