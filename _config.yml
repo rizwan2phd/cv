@@ -119,8 +119,8 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - this is one
-      - this is two
+      - Rizwan, Muhammad, and Jure Demšar. "Prevalent Frequency of Emotional and Physical Symptoms in Social Anxiety using Zero Shot Classification: An Observational Study." Proceedings of the 9th Workshop on Computational Linguistics and Clinical Psychology (CLPsych 2024). 2024.
+      - Rizwan, Muhammad, et al. "Depression Intensity Classification from Tweets Using FastText Based Weighted Soft Voting Ensemble." Computers, Materials & Continua 78.2 (2024): 2047-2066.
 
 
 # Footer
