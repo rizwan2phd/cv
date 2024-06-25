@@ -105,7 +105,7 @@ content:
         quote: >
           Thesis Title: Early Depression Prediction Based On Social Media Data Using Machine Learning Techniques
         description: | # this will include new lines to allow paragraphs
-          The thesis explores methods to classify depression expressed in social media posts, focusing on intensity rather than binary classification. It addresses the challenge of noise in social media data and proposes techniques using machine learning and deep learning models. After annotating tweets into three depression classes, FastText models and an ensemble approach are applied, achieving an 84\% F1 score and 90\% accuracy, outperforming baselines. The study evaluates transformer-based models, highlighting Electra Small Generator (ESG) as the best performer due to its deep contextualized text representation with an 89\% F1 score, even surpassing larger models like DistilBert. Additionally, optimization of ESG through post-training quantization is suggested for deployability to embedded devices without compromising performance, demonstrating its closeness in performance to the proposed ensemble approach. The research aids in better depression intensity classification on Twitter and helps in selecting optimal language models for similar NLP tasks with less training time.
+          The PhD thesis explores methods to classify depression expressed in social media posts, focusing on intensity rather than binary classification. It addresses the challenge of noise in social media data and proposes techniques using machine learning and deep learning models. After annotating tweets into three depression classes, FastText models and an ensemble approach are applied, achieving an 84\% F1 score and 90\% accuracy, outperforming baselines. The study evaluates transformer-based models, highlighting Electra Small Generator (ESG) as the best performer due to its deep contextualized text representation with an 89\% F1 score, even surpassing larger models like DistilBert. Additionally, optimization of ESG through post-training quantization is suggested for deployability to embedded devices without compromising performance, demonstrating its closeness in performance to the proposed ensemble approach. The research aids in better depression intensity classification on Twitter and helps in selecting optimal language models for similar NLP tasks with less training time.
      
       - layout: left
         title: MS (Computer Science)
@@ -114,15 +114,14 @@ content:
         quote: >
           Thesis Title: Opinion Mining in Geo-Tagged Tweets of Political Domain of Pakistan
         description: | # this will include new lines to allow paragraphs
-          The thesis focuses on analyzing Twitter data to gauge the temporal popularity of top political parties in Pakistan, aiming to provide an alternative to potentially biased traditional survey methods. By collecting 1.3 million geo-tagged tweets and employing sentiment analysis techniques including lexicon-based and machine learning algorithms, it assesses sentiment accuracy and favors SentiStrength for its quantitative sentiment measurement. Biased data is filtered, and sentiment scores are averaged over time to evaluate party popularity across different geographical areas. Additionally, the thesis outlines rules to identify influential events using hashtags that impact party popularity chronologically. An prototype application is also developed to display political popularity trends through statistical graphs for each party, alongside sentiment visualizations on maps based on tweet locations.
+          The Master thesis focuses on analyzing Twitter data to gauge the temporal popularity of top political parties in Pakistan, aiming to provide an alternative to potentially biased traditional survey methods. By collecting 1.3 million geo-tagged tweets and employing sentiment analysis techniques including lexicon-based and machine learning algorithms, it assesses sentiment accuracy and favors SentiStrength for its quantitative sentiment measurement. Biased data is filtered, and sentiment scores are averaged over time to evaluate party popularity across different geographical areas. Additionally, the thesis outlines rules to identify influential events using hashtags that impact party popularity chronologically. An prototype application is also developed to display political popularity trends through statistical graphs for each party, alongside sentiment visualizations on maps based on tweet locations.
 
-  - title: A Little More About Me
+  - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
       - this is one
       - this is two
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
