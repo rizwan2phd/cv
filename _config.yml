@@ -82,20 +82,20 @@ content:
     layout: list
     content:
       - layout: right
-        title: Khwaja Fareed University of Engineering and Information Technology, Pakistan
-        sub_title: Full Time Lecturer, Information Technology
+        title: Full Time Lecturer, Information Technology
+        sub_title: Khwaja Fareed University of Engineering and Information Technology, Pakistan
         caption: February 2016 - present
-        link: Link to company (optional)
+        link: https://kfueit.edu.pk/
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
 
       - layout: right
-        title: The Islamia University of Bahawalpur, Pakistan
-        sub_title: Visiting Lecturer, Computer Science
+        title: Visiting Lecturer, Computer Science
+        sub_title: The Islamia University of Bahawalpur, Pakistan
         caption: 2013 - 2015
-        link: Link to company (optional)
+        link: https://www.iub.edu.pk/
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
