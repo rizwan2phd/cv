@@ -121,8 +121,11 @@ content:
     content: | # this will include new lines to allow paragraphs
       - <mark>First Author</mark> Rizwan, Muhammad, and Jure Demšar. "Prevalent Frequency of Emotional and Physical Symptoms in Social Anxiety using Zero Shot Classification: An Observational Study." Proceedings of the 9th Workshop on Computational Linguistics and Clinical Psychology (CLPsych 2024). <mark>2024</mark>.
       - <mark>First Author</mark> Rizwan, Muhammad, et al. "Depression Intensity Classification from Tweets Using FastText Based Weighted Soft Voting Ensemble." Computers, Materials & Continua 78.2 (<mark>2024</mark>): 2047-2066.
-      - <mark>Corresponding Author Author</mark> Khosa, Saima, Arif Mehmood, and Muhammad Rizwan. "Unifying Sentence Transformer Embedding and Softmax Voting Ensemble for Accurate News Category Prediction." Computers 12.7 (<mark>2023</mark>): 137.
-
+      - <mark>Corresponding Author</mark> Khosa, Saima, Arif Mehmood, and Muhammad Rizwan. "Unifying Sentence Transformer Embedding and Softmax Voting Ensemble for Accurate News Category Prediction." Computers 12.7 (<mark>2023</mark>): 137.
+      - <mark>First Author</mark> Rizwan, Muhammad, et al. "Depression classification from tweets using small deep transfer learning language models." IEEE Access 10 (<mark>2022</mark>): 129176-129189.
+      - <mark>Co-Author</mark> Yasin, Samina, et al. "Dual Language Sentiment Analysis Model for YouTube Videos Ranking Based on Machine Learning Techniques." Pakistan Journal of Engineering and Technology 3.2 (<mark>2020</mark>): 213-218.
+      - <mark>Co-Author</mark> Yasin, Samina, et al. "Dual Language Sentiment Analysis Model for YouTube Videos Ranking Based on Machine Learning Techniques." Pakistan Journal of Engineering and Technology 3.2 (<mark>2020</mark>): 213-218.
+    
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
